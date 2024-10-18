@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937881905159",
+    "project_id": "singinfacebook-3f5c0",
+    "storage_bucket": "singinfacebook-3f5c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937881905159:android:f2c22cea6aac8bc17222a2",
+        "android_client_info": {
+          "package_name": "com.example.sing_in_facebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDQd-V_VXjhP5AWYpxgJmmKZqLWGyINM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
